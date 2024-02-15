@@ -1,6 +1,7 @@
 # An-Analysis-of-Customer-Segmentation-using-different-clustering-techniques
 
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hackersrealm.net%2Fpost%2Fmall-customer-segmentation-analysis-using-python&psig=AOvVaw3yIfrf9Pr1Z8MCZkqP5vqE&ust=1708066575989000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPj_tt7lrIQDFQAAAAAdAAAAABAE](https://static.wixstatic.com/media/f9980f_9ec4f8a477cb430cba05dd3526a54b04~mv2.png/v1/fill/w_925,h_520,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/f9980f_9ec4f8a477cb430cba05dd3526a54b04~mv2.png)
+![image](https://github.com/Nathipriya-V/An-Analysis-of-Customer-Segmentation-using-different-clustering-techniques/assets/160104560/d9524ad7-04d4-4f2e-b54a-f9bafd095715)
+
 
 ## Overview:
 The GitHub repository titled "An Analysis of Customer Segmentation using different clustering techniques" is a project focused on improving marketing strategies through the identification of distinct customer segments based on their purchasing behavior and demographics. The project utilizes various clustering techniques, including K-means clustering, density-based clustering, and centroid-based clustering, to group customers with similar characteristics together. By analyzing these segments, the marketing team can gain insights that lead to more efficient customer targeting and increased customer satisfaction.
